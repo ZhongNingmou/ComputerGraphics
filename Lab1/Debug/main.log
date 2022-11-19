@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\12284\OneDrive\桌面\cs3241\Lab1_todo_(win-vs2017)\main.cpp(113,38): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\12284\OneDrive\桌面\cs3241\Lab1_todo_(win-vs2017)\main.cpp(113,28): warning C4244: 'argument': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\12284\OneDrive\桌面\cs3241\Lab1_todo_(win-vs2017)\main.cpp(116,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\12284\OneDrive\桌面\cs3241\Lab1_todo_(win-vs2017)\main.cpp(116,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.vcxproj -> C:\Users\12284\OneDrive\桌面\cs3241\Lab1_todo_(win-vs2017)\Debug\main.exe

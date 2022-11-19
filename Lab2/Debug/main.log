@@ -1,0 +1,12 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(55,47): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(58,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(66,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(67,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(68,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(72,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(73,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(74,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\main.cpp(494,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  main.vcxproj -> C:\Users\12284\OneDrive\桌面\cs3241\Lab2_todo_(win-vs2017)\Debug\main.exe
